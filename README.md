@@ -131,7 +131,8 @@ write(wfd,buff,n);
 }
 ```
 ## OUTPUT
-<img width="836" height="265" alt="image" src="https://github.com/user-attachments/assets/5d6136a3-6ecb-4d7a-94ee-e794cdec42f4" />
+<img width="1034" height="244" alt="image" src="https://github.com/user-attachments/assets/82578f69-d894-45a0-945b-3926270d7170" />
+
 
 
 
